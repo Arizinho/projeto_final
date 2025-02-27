@@ -84,4 +84,4 @@ Os pinos GPIO da Raspberry Pi Pico estão configurados conforme a tabela abaixo:
 
 ## **Link do Vídeo**
 
-- Youtube: 
+- Youtube: https://www.youtube.com/watch?v=aO68k0g_5qM
